@@ -1,5 +1,4 @@
 # SwiftyCompanion
-
 ## Description
 This project is an introduction to mobile programming. The goal is to create an application which allows you to get information about 42 students, using an API.
 
@@ -27,5 +26,5 @@ mobile, level, location, wallet, correction...)
 - [x] Use of custom cells
 - [x] Recreate token at expire date
 - [x] Design
-- [x] Srcollview
+- [x] ScrollView
 - [x] ...
